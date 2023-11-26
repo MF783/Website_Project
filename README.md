@@ -1,9 +1,7 @@
-<!DOCTYPE html>
-<html>
-<body>
+# Data Scientist 
 
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
+## Education 
 
-</body>
-</html> 
+## Work Experience 
+
+## Projects
